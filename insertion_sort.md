@@ -7,17 +7,21 @@
 
 
 2) Big-O 
+
   O(N^2)
   
 3) Time Complexity
+
   Average Case: O(n^2)
   Worst Case: O(n^2)
   Best Case : O(n)
  
 4) 18 sayısı hangi case kapsamına girer ? 
+
   Average case
   
 5) [7,3,5,8,2,9,4,15,6] insertion sort'a göre ilk 4adımı ? 
+
   
   initial: [7,3,5,8,2,9,4,15,6]
   1: [3,7,5,8,2,9,4,15,6]
